@@ -122,7 +122,7 @@ schedule = [
 ]
 
 event_details = {
-    "name": "SATAF, AI fellowship, 2026",
+    "name": "SATAF AI fellowship, 2026",
     "date": "May 2, 2026",
-    "location": "INternational Conference Center, Gombe State, Nigeria"
+    "location": "International Conference Center, Gombe State, Nigeria"
 }
