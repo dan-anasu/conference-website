@@ -122,7 +122,7 @@ schedule = [
 ]
 
 event_details = {
-    "name": "Google Cloud Tech Summit 2026",
+    "name": "Sub-Saharan African Technological Advancement SATAF, AI fellowship, 2026",
     "date": "May 2, 2026",
-    "location": "Moscone Center, San Francisco, CA"
+    "location": "INternational Conference Center, Gombe State, Nigeria"
 }
